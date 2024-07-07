@@ -1,7 +1,7 @@
 # Query-Language
 
 ## Table create
-![Screenshot_2](https://github.com/xvy45/Query-Language/assets/113087685/773861c3-22ef-4bb4-ab5a-8fe2090a4fdd)
+![Screenshot_1](https://github.com/xvy45/Query-Language/assets/113087685/4b77b867-45f7-4010-9e3b-7c2bbbe572a7)
 
 ### And:
 ![Screenshot_1](https://github.com/xvy45/Query-Language/assets/113087685/adf20cad-3f6a-4fe9-9b1c-0a7e8eaedaa0)
