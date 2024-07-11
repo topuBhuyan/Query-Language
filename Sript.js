@@ -1,2 +1,1 @@
-Consle.log("Hello WPS")
-const pain("deskGit")
+const par = "Deskgit";
